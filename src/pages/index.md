@@ -1,43 +1,40 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Ms. popo
+image: /img/32649492226_8af8c2bef5_o.jpg
+heading: " "
+subheading: Magyarország legnagyobb összdíjazású szépségversenye
 mainpitch:
-  title: Why Kaldi yooo
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Ms. Popo és minden ami mögötte van
+  description: Szépségversenyünk hivatott megtalálni Magyarország legszebb
+    fenekét, legyen az kerek, körte vagy XXL, mi szerintünk minden fenék
+    csodaszép.
+description: Ha te szeretnél lenni Magyaroszág popója, akkor nincs más dolgod,
+  minthogy jelentkezz versenyünkre! Pazar ajándékok, Páratalan összdíjazás,
+  nincs veszítenivalód!
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/25350955039_3081e7f296_o.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/coffee-gear.png
+    - image: /img/27310477990_8bca85e442_o.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/tutorials.png
+    - image: /img/50195477323_709571d05a_o.jpg
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
         to help. You can schedule a custom 1-on-1 consultation with our baristas
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
-    - image: /img/meeting-space.png
+    - image: /img/50196024186_e46bc35cb4_o.jpg
       text: >
         We believe that good coffee has the power to bring people together.
         That’s why we decided to turn a corner of our shop into a cozy meeting
