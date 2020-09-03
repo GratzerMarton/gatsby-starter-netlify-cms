@@ -17,3 +17,15 @@ p{
 .bold{
     font-weight: 600;
 }
+
+.votebutton{
+    padding: 1rem;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(236, 29, 36);
+    color: white;
+    border-radius: 2px;
+    border: 1px  rgb(236, 29, 36);
+
+}

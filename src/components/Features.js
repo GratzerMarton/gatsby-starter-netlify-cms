@@ -20,6 +20,7 @@ const FeatureGrid = ({ gridItems }) => (
             </div>
           </div>
           <p>{item.text}</p>
+          <button className="votebutton">Szavazok!</button>
         </section>
       </div>
     ))}
